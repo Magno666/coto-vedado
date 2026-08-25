@@ -18,7 +18,7 @@ no se descarga ni una imagen ni un audio.
 | `WASD` | Moverse |
 | `Shift` | Correr — hace mucho ruido |
 | `Ctrl` / `C` | Agacharse — casi no hace ruido |
-| `F` | Linterna |
+| `F` | Linterna — sin pila |
 | Clic mantenido | Enfocar el haz |
 | `E` | Encender baliza |
 | `M` | Mapa |
@@ -27,6 +27,11 @@ En móvil: joystick a la izquierda, arrastrar para mirar, botones a la derecha.
 
 **Sube el volumen.** Las bestias suenan con audio espacial: oyes por qué lado
 te vienen. Cuando el bosque se calla de golpe, es que algo se ha acercado.
+
+## Adrenalina
+
+Con una bestia a menos de veinte metros corres más y aguantas más, pero el
+aliento se quema mucho más deprisa. Sirve para escapar, no para viajar.
 
 ## Las tres bestias
 
