@@ -37,8 +37,10 @@ aliento se quema mucho más deprisa. Sirve para escapar, no para viajar.
 
 - **El Alto** castiga *mirar*. Quieto mientras lo veas, pero te funde la cordura.
   Apartas los ojos y salta más cerca.
-- **La Jauría** castiga *correr*. Cazan de oído. El haz enfocado las frena.
-- **El Ciego** castiga *moverte*. Ciego total, sólo oye. Quédate quieto.
+- **La Jauría** castiga *correr y dejarte ver*. Cazan por vista y por oído.
+  Agáchate y apaga la linterna y dejan de verte al instante.
+- **El Ciego** castiga *moverte*. Ciego total, sólo oye — el agacharte no le
+  afecta, sólo el ruido. Hay un medidor de ruido en el HUD.
 
 ---
 
